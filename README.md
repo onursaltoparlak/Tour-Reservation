@@ -16,12 +16,11 @@ Rehber Bilgileri: Turlar için atanmış rehberlerin bilgileri görüntülenebil
 Konum Yönetimi: Turların düzenlendiği konumlar eklenip düzenlenebilir.​
 
 Kurulum
-Projeyi Klonlayın:
 
-bash
-Kopyala
-Düzenle
+Projeyi Klonlayın:
 git clone https://github.com/onursaltoparlak/Tour-Reservation.git
+
+
 Visual Studio ile Açın:
 
 Projeyi Visual Studio'da açın ve gerekli NuGet paketlerini yükleyin.
@@ -43,6 +42,7 @@ Projeyi Çalıştırın:
 Projeyi derleyip çalıştırarak uygulamayı kullanmaya başlayabilirsiniz.
 
 Kullanılan Teknolojiler
+
 Programlama Dili: C#
 
 Arayüz: Windows Forms
