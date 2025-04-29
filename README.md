@@ -1,4 +1,6 @@
-Tour Reservation
+![foto](https://github.com/user-attachments/assets/a9e31cae-6a32-41af-87a0-5101ff24cdbf)
+
+
 Tour Reservation, kullanıcıların tur rezervasyonlarını kolayca yapabilmesini sağlayan bir masaüstü uygulamasıdır. C# ve Windows Forms kullanılarak geliştirilmiş olan bu proje, Entity Framework ile veritabanı işlemlerini yönetmektedir.​
 
 Özellikler
